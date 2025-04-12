@@ -1,1 +1,2 @@
-// Flows will be imported for their side effects in this file.
+import '@/ai/flows/trending-recommendations.ts';
+import '@/ai/flows/personalized-recommendations.ts';
